@@ -1,0 +1,4 @@
+Apache Spark is a powerful data processing framework.
+Spark can process large amounts of data.
+Python is easy to learn.
+Spark and Python are useful for data processing.
